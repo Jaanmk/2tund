@@ -5,16 +5,20 @@
 <?php
 echo "hello world";
 $first_name="Juku";
-print first_name;
 
 ?>
-<?php 
 
-	$age= 20;
-	// <= , >= , == , !=
-	if(age<18){ echo "Alakas"; }
-	else {echo "edu";}
+<?php
+	for ($i= 0; $i < $age; $i = $i +1){
+		echo "palju";
+		}
 	
+	echo "onne";
+	
+?>
+
+<?php
+echo date("l, j f Y E");
 ?>
 
 </body>
