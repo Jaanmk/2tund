@@ -4,6 +4,8 @@
 
 <?php
 echo "hello world";
+$first_name="Juku";
+print first_name;
 ?>
 
 </body>
